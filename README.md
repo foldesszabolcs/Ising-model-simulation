@@ -1,0 +1,1 @@
+2D Ising model simulation project done in Python. Using Monte-Carlo method and Metropolis algorithm, error estimated with blocking algorithm. Goal is to investigate behaviour close to the critical point.
